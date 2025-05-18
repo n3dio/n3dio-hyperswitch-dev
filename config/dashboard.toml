@@ -6,7 +6,7 @@ sidebar_secondary= "#FFFFFF"
 sidebar_hover_color= "#D9DDE5"  
 sidebar_primary_text_color="#1C6DEA" 
 sidebar_secondary_text_color= "#525866" 
-sidebar_border_color= "#ECEFF3" 
+sidebar_border_color= "#ECEFF3" # test for github desktop
 
 [default.endpoints]
 api_url="http://localhost:8080" # The backend hyperswitch API server for making payments
